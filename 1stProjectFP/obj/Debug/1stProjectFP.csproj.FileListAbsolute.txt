@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\1stProjectFP\bin\Debug\1stProjectFP.exe.config
+C:\Users\Lenovo\source\repos\1stProjectFP\bin\Debug\1stProjectFP.exe
+C:\Users\Lenovo\source\repos\1stProjectFP\bin\Debug\1stProjectFP.pdb
+C:\Users\Lenovo\source\repos\1stProjectFP\obj\Debug\1stProjectFP.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\1stProjectFP\obj\Debug\_1stProjectFP.Form1.resources
+C:\Users\Lenovo\source\repos\1stProjectFP\obj\Debug\_1stProjectFP.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\1stProjectFP\obj\Debug\1stProjectFP.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\1stProjectFP\obj\Debug\1stProjectFP.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\1stProjectFP\obj\Debug\1stProjectFP.exe
+C:\Users\Lenovo\source\repos\1stProjectFP\obj\Debug\1stProjectFP.pdb
